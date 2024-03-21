@@ -118,28 +118,28 @@ PARTICULAR PLATFORM */
 
 //           REDIRECTON / FARSIDE
 
-let bandcamp = [true, true];
+let bandcamp = [false, false];
 let fandom = [true, true];
 let genius = [true, true];
-let goodreads = [true, false];
-let google = [true, true];
-let gtranslate = [true, true];
+let goodreads = [false, false];
+let google = [false, false];
+let gtranslate = [false, false];
 let hackernews = [true, true];
 let imdb = [true, true];
 let imgur = [true, false];
-let medium = [true, true];
+let medium = [false, false];
 let pinterest = [true, true];
 let pixiv = [true, true];
 let quora = [true, false];
-let reddit = [true, false];
+let reddit = [false, false];
 let reuters = [true, true];
-let soundcloud = [true, true];
+let soundcloud = [false, false];
 let stackoverflow = [true, true];
 let tiktok = [true, false];
 let twitter = [true, true];
-let wikipedia = [true, false];
-let youtube = [true, false];
-let twitch = [true, true];
+let wikipedia = [false, false];
+let youtube = [false, false];
+let twitch = [false, false];
 let instagram = [true, true];
 
 // PREFERRED FRONTEND
