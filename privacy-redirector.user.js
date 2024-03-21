@@ -61,9 +61,9 @@
 // @author Ahmet Arda Kavakcı
 // @license GPLv3
 // @version 1.5.7
-// @downloadURL https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js
+// @downloadURL https://raw.githubusercontent.com/holyspiritomb/privacy-redirector/holyspiritomb/privacy-redirector.user.js
 // @supportURL https://github.com/dybdeskarphet/privacy-redirector
-// @updateURL https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js
+// @updateURL https://raw.githubusercontent.com/holyspiritomb/privacy-redirector/holyspiritomb/privacy-redirector.user.js
 // @run-at document-start
 // @match *://*.bandcamp.com/*
 // @match *://*.fandom.com/*
